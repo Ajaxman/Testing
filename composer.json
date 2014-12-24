@@ -1,0 +1,23 @@
+{
+    "name": "Jlopez/DesignPatterns",
+    "description": "How to be an expert in Testing",
+    "licence": "MIT",
+    "keywords": ["TDD", "Testing", "phpunit","mock", "stub"],
+    "authors": [
+        {
+            "name": "Javier Lopez Lopez",
+            "email": "sjavierlopez@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "4.0.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "psr-4": { "" : "src/" }
+        }
+    }
+}
