@@ -1,5 +1,5 @@
 {
-    "name": "Jlopez/DesignPatterns",
+    "name": "Jlopez/Testing",
     "description": "How to be an expert in Testing",
     "licence": "MIT",
     "keywords": ["TDD", "Testing", "phpunit","mock", "stub"],
